@@ -1,5 +1,6 @@
 # Computer-Science-300-Analysis-and-Design
 SNHU CS 300
+
 What was the problem you were solving in the projects for this course?
 
 The final goal of the projects in this course was to create an advising assistance tool that helps academic advisors quickly find information about Computer Science courses, including whether they have prerequisites and what those prerequisites are. Project One focused on analyzing different data structures—Binary Search Trees, vectors, and hash tables—to determine which would most efficiently store and retrieve course data. We selected the Binary Search Tree because it provides fast lookup times, maintains sorted order automatically, and scales well as more courses are added. Project Two implemented this design in a working C++ application that can load course information from a file, display an alphabetically sorted course list, and print course details including prerequisites.
