@@ -19,4 +19,4 @@ This project reinforced how important planning is before writing code. Creating 
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
-I have improved in writing modular, readable code by separating functionality into functions, adding descriptive comments, and following naming conventions. I also focused on input validation to create a more user-friendly and error-resistant program. Additionally, thinking ahead to future enhancements—such as adding numeric menu-linked course selection—helped me design software that can be easily maintained and expanded as requirements evolve.
+I have improved in writing modular, readable code by separating functionality into functions, adding descriptive comments, and following naming conventions. I also focused on input validation to create a more user-friendly and error-resistant program. Additionally, thinking ahead to future enhancements, such as adding numeric menu-linked course selection, helped me design software that can be easily maintained and expanded as requirements evolve.
